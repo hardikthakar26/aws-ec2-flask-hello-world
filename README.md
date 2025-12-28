@@ -13,12 +13,8 @@ Simple Flask web app deployed to AWS EC2 with automated Bash script.
 2. Add user data (paste the deploy.sh content) for auto-setup.
 3. Access via public IP.
 
-## Screenshots
-(Add your screenshots here after deployment)
-
 ## Learning Outcomes
 - Automated deployment
 - Cloud infrastructure basics
 - Scripting in Bash
 
-Let's build more wonders! 🚀
